@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" restorationIdentifier="posappLabel" text="Posapp" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sw0-Pq-Cqr" colorLabel="IBBuiltInLabel-Orange">
-                                <rect key="frame" x="130" y="286" width="219" height="194"/>
+                                <rect key="frame" x="90" y="266" width="219" height="194"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <accessibility key="accessibilityConfiguration" label="mainTitle"/>
                                 <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="46"/>
